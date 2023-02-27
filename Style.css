@@ -1,0 +1,69 @@
+body {
+  background-image: url("kingdom-hearts-wallpaper-preview.jpg");
+  background-color: #cccc;
+}
+
+#name {
+  color: goldenrod;
+  text-align: center;
+  font-weight: bolder;
+  flex-wrap: wrap;
+  font-style: italic;
+  flex-wrap: wrap;
+}
+
+.data {
+  color: rgb(209, 29, 29);
+  text-align: center;
+  font-weight: bolder;
+  flex-wrap: wrap;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.sections {
+  color: rgb(18, 149, 236);
+  font-weight: bolder;
+  flex-wrap: wrap;
+  font-size: large;
+}
+
+#position {
+  color: rgb(231, 158, 21);
+  font-weight: bolder;
+  flex-wrap: wrap;
+}
+
+.languages {
+  color: rgb(206, 33, 206);
+  font-weight: bolder;
+  flex-wrap: wrap;
+}
+
+.years {
+  color: whitesmoke;
+  font-weight: bolder;
+  flex-wrap: wrap;
+}
+
+.schools {
+  color: rgb(195, 192, 192);
+  font-weight: bolder;
+  flex-wrap: wrap;
+}
+
+.hobbies {
+  color: rgb(243, 97, 29);
+  font-weight: bolder;
+  flex-wrap: wrap;
+}
+
+.emails {
+  color: rgb(8, 197, 8);
+  flex-wrap: wrap;
+}
+
+.images {
+  flex-wrap: wrap;
+}
